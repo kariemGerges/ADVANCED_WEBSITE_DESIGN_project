@@ -13,6 +13,9 @@ nav {
     padding: 15px;
     color: white;
     text-decoration: none;
+    font-weight: bolder;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   .logo{
@@ -36,14 +39,11 @@ nav {
   }
 
   .main-area {
+    position: relative;
     border: 2px solid lightgray;
     background-color: #F3DBCE;
   }
   
-.centered {
-    margin-left: auto;
-    margin-right: auto;
-  }
   
 .cards {
     display: flex;
